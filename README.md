@@ -1,6 +1,6 @@
 # Jogo da Memória - Rick & Morty
 
-![Rick & Morty Memory Game](https://prnt.sc/Y0Ii35o6o_-V)  
+![Rick & Morty Memory Game](images/readme.png)
 Um divertido jogo da memória inspirado na série Rick & Morty, desenvolvido com **HTML, CSS e JavaScript**.
 
 ## ✨ Funcionalidades
