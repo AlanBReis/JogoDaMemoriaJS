@@ -16,23 +16,24 @@ Um divertido jogo da memória inspirado na série Rick & Morty, desenvolvido com
 ## 🚀 Como Rodar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/rick-morty-memory-game.git
+   git clone https://github.com/AlanBReis/JogoDaMemoriaJS.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd rick-morty-memory-game
+   cd JogoDaMemoriaJS
    ```
 3. Abra o arquivo `index.html` no navegador.
 
 ## 🚪 Implementação DevOps
 - **Docker**: Contêiner para rodar o jogo localmente.
-- **CI/CD**: Pipeline com GitHub Actions para fazer o deploy automático.
 - **Terraform**: Provisionamento automático na AWS.
 - **Cloud**: Hospede o jogo em um bucket S3 na AWS ou no Azure Static Web Apps.
-- **Monitoramento**: Utilize Prometheus + Grafana para coletar métricas de uso.
+
 
 ## 🛠️ Melhorias Futuras
 - Adicionar ranking de jogadores.
+- Monitoramento: Utilize Prometheus + Grafana para coletar métricas de uso.
+- CI/CD: Pipeline com GitHub Actions para fazer o deploy automático.
 
 ---
 👨‍💻 **Desenvolvido por [Alan Reis](https://github.com/AlanBReis)** 
